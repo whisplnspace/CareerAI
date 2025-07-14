@@ -1,6 +1,6 @@
 # CareerAI
 
-CareerAI is an AI-powered career guidance system designed to assist users in making informed career decisions. This project leverages machine learning and natural language processing to analyze user inputs and provide personalized career recommendations.
+CareerAI is an AI-powered career guidance system designed to assist users in making informed career decisions. This project leverages machine learning and natural language processing to analyse user inputs and provide personalised career recommendations.
 
 ## Features
 - 🎯 AI-driven career recommendations
